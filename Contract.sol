@@ -470,7 +470,7 @@ contract Charizad is Context, IERC20, Ownable {
     uint256 private _tBurnTotal;
 
     string private constant _name = 'Charizard Token';
-    string private constant _symbol = 'CHZD';
+    string private constant _symbol = 'CHZ006';
     
     uint256 private _taxFee = 300;
     uint256 private _burnFee = 200;
